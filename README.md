@@ -145,11 +145,11 @@ data = dict(
 
 新增脚本
 
-[count_h_w.py](./data/count_h_w.py)    计算数据集长宽分布
+[count_h_w.py](data/count_h_w.py)    计算数据集长宽分布
 
-[example_count.py](./data/example_count.py)  每类实例数计算
+[example_count.py](data/example_count.py)  每类实例数计算
 
-[mean_std_count.py](./data/mean_std_count.py)  数据集均值，标准差计算
+[mean_std_count.py](data/mean_std_count.py)  数据集均值，标准差计算
 
-[voc2coco.py ](./data/voc2coco.py) voc格式转coco格式
+[voc2coco.py ](data/voc2coco.py) voc格式转coco格式
 
